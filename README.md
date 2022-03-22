@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mohammad Parvez Musharaf
 #### I am a Web Developer
-![I am a Web Developer](https://media-exp1.licdn.com/dms/image/C4D22AQGNfRYiyQ5gRA/feedshare-shrink_800/0/1647978926561?e=1651104000&v=beta&t=22zUl066iTfvHpJfLS-ICkTvVYU2ssnUsp6etgJKhPM)
+<!-- ![I am a Web Developer](https://media-exp1.licdn.com/dms/image/C4D22AQGNfRYiyQ5gRA/feedshare-shrink_800/0/1647978926561?e=1651104000&v=beta&t=22zUl066iTfvHpJfLS-ICkTvVYU2ssnUsp6etgJKhPM) -->
 
 I Love web technology. I always try to improve my web development skill. Specially I'm a 'MERN Stack Developer'.
 
