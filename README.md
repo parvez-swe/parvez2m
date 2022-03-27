@@ -5,7 +5,8 @@
 I Love web technology. I always try to improve my web development skill. Specially I'm a 'MERN Stack Developer'.
 
 Skills: MongoDB/Express/react/nodejs/Bootstrap/Tailwind.css/HTML
-[![My Skills](https://skillicons.dev/icons?i=js,react.js,express.js,node.js,mongodb,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,html,css)](https://skillicons.dev)
+
 - 🔭 I’m currently working on Portfolio project and make more mastery in 'MERN' Stack 
 - 🌱 I’m currently learning 'MERN' Stack 
 - 👯 I’m looking to collaborate on GitHub 
