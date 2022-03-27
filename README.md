@@ -7,14 +7,14 @@ I Love web technology. I always try to improve my web development skill. Special
 ### Skills: JavaScript, Ract.js, Express.js, Node.js, mongodb, html, css, tailwind
 ![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,html,css,bootstrap,tailwind,vscode)
 
- 🔭 I’m currently working on Portfolio project and make more mastery in 'MERN' Stack 
- 🌱 I’m currently learning 'MERN' Stack 
- 👯 I’m looking to collaborate on GitHub 
- 🤔 I’m looking for help with Web Development 
- 💬 Ask me about Web Development 
- 📫 How to reach me: mdparvezmusahraf2@gamil.com 
- 😄 Pronouns: Mohammad 
- ⚡ Fun fact: Code Error😍😍😍 
+- 🔭 I’m currently working on Portfolio project and make more mastery in 'MERN' Stack 
+-🌱 I’m currently learning 'MERN' Stack 
+-👯 I’m looking to collaborate on GitHub 
+-🤔 I’m looking for help with Web Development 
+-💬 Ask me about Web Development 
+-📫 How to reach me: mdparvezmusahraf2@gamil.com 
+-😄 Pronouns: Mohammad 
+-⚡ Fun fact: Code Error😍😍😍 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/parvez2m)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-parvez-musharaf-386076222/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/parvez.musharaf.355)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohammad_parvez_musharaf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCd0MT6PTKU42Vu5rjdSSerg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://parvez2m.github.io/personal_portfolio/)  
