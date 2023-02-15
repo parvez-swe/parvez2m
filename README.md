@@ -2,7 +2,7 @@
 #### I am a Full Stack Developer
 <!-- ![I am a Web Developer](https://media-exp1.licdn.com/dms/image/C4D22AQGNfRYiyQ5gRA/feedshare-shrink_800/0/1647978926561?e=1651104000&v=beta&t=22zUl066iTfvHpJfLS-ICkTvVYU2ssnUsp6etgJKhPM) -->
 
-Hi there, I'm a MERN stack developer and React Native enthusiast currently studying Software Engineering. I have a passion for building clean, efficient and scalable applications that solve real-world problems.
+I'm a MERN stack developer and React Native enthusiast currently studying Software Engineering. I have a passion for building clean, efficient and scalable applications that solve real-world problems.
 
 I'm proficient in front-end development using React, and have experience with back-end technologies like Node.js and Express.js. I also have a strong understanding of databases such as MongoDB and SQL.
 
